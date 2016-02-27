@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0'
+inLanguage: null
+starred: false
+keywords: []
 description: 'Like most 25-year-olds, Julia Rozovsky wasn’t sure what she wanted to do with her life. She had worked at a consulting firm, but it wasn’t a good match. Then sh'
+datePublished: '2016-02-27T20:15:29.201Z'
+dateModified: '2016-02-27T20:15:10.418Z'
 author: []
-datePublished: '2016-02-27T20:13:23.991Z'
-publisher:
-  domain: www.nytimes.com
-  name: nytimes.com
-dateModified: '2016-02-27T20:11:53.235Z'
 title: ''
 sourcePath: _posts/2016-02-27-like-most-25-year-olds-julia-rozovsky-wasnt-sure-what-she.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: like-most-25-year-olds-julia-rozovsky-wasnt-sure-what-she/index.html
+authors: []
+publisher:
+  name: nytimes.com
+  domain: www.nytimes.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
