@@ -1,0 +1,28 @@
+name: BloedBond
+favicon: null
+layout_spectrum: 0.47667431901209056
+typography_spectrum: 0.3690290548838675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2089548478834331
+  lightness: 0.3167278873734176
+  saturation: 0.6049680854193866
+  rhythmicContrast: 0.6175950057804585
+purpose: []
