@@ -45,8 +45,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/tornadiart'
-datePublished: '2016-02-27T19:56:25.143Z'
-dateModified: '2016-02-27T19:55:48.452Z'
+datePublished: '2016-02-27T19:58:50.152Z'
+dateModified: '2016-02-27T19:57:48.017Z'
 title: ''
 sourcePath: _posts/2016-02-27-the-latest-tweets-from-tornadi-tornadiart-tornadi-ben.md
 published: true
